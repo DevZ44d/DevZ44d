@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250px" />
 
 
-
+````markdown
 ```csharp
 - My Profile
 -------------------------------
@@ -20,6 +20,7 @@ Languages: Python, C++.
 Learning: Machine Learning, Artificial Intelligence.
 Telegram: T.me/eeeYccc .
 ```
+````
 
 <h3>Programming Languages 👨‍💻</h3>
 
