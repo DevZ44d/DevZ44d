@@ -26,6 +26,7 @@ Telegram: T.me/eeeYccc .
 
 ![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=c++&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
