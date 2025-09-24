@@ -50,14 +50,6 @@ Telegram: T.me/eeeYccc .
 ![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevZ44d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DevZ44d&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevZ44d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
 <br>
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
@@ -69,3 +61,9 @@ Telegram: T.me/eeeYccc .
 </details>
 
 </br>
+
+<p float="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&langs_count=6&theme=tokyonight&layout=compact" height="150">
+	<img src="https://github-readme-stats.vercel.app/api?username=DevZ44d&show_icons=true&theme=tokyonight" height="150">
+</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZ44d&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
