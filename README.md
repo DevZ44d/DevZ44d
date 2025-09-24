@@ -23,27 +23,22 @@ Telegram: T.me/ddedman .
 ````
 
 
-<details>
-  <summary>Programming Languages 👨‍💻</summary>
+### Programming Languages 👨‍💻
 	
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cpp,js,python" />
     </a>
   </p>
-</details>
 
 <h3>IDEs Used 🚀</h3>
 
-<details>
-  <summary>IDEs Used 🚀</summary>
-	
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
     </a>
   </p>
-</details>
+
 
 <h3>Systems I love ✨</h3>
 
