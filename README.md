@@ -26,7 +26,7 @@ Telegram: T.me/ddedman .
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,python,c++" />
+      <img src="https://skillicons.dev/icons?i=C++,js,python" />
     </a>
   </p>
   
