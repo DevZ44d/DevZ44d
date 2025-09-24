@@ -22,26 +22,28 @@ Telegram: T.me/ddedman .
 ```
 ````
 
-<h3>Programming Languages 👨‍💻</h3>
 
-<p align="center">
+<details>
+  <summary>Programming Languages 👨‍💻</summary>
+	
+  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=C++,js,python" />
+      <img src="https://skillicons.dev/icons?i=cpp,js,python" />
     </a>
   </p>
-  
-![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=c++&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+</details>
 
 <h3>IDEs Used 🚀</h3>
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Pydroid3](https://img.shields.io/badge/Pydroid-316192?style=for-the-badge&logo=terminal&logoColor=white)
+<details>
+  <summary>IDEs Used 🚀</summary>
+	
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
+    </a>
+  </p>
+</details>
 
 <h3>Systems I love ✨</h3>
 
