@@ -23,28 +23,30 @@ Telegram: T.me/ddedman .
 ````
 
 
-### Programming Languages 👨‍💻
+### >_ Programming Languages 👨‍💻
 	
-  <p align="left">
+  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,js,python" />
+      <img src="https://skillicons.dev/icons?i=cpp,js,python,bash" />
     </a>
   </p>
 
-<h3>IDEs Used 🚀</h3>
+### >_ IDEs Used 🚀
 
-  <p align="left">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
     </a>
   </p>
 
 
-<h3>Systems I love ✨</h3>
+### >_ Systems I love ✨
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Android](https://img.shields.io/badge/android-FF000?style=for-the-badge&logo=android&logoColor=white)
-
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,windows" />
+    </a>
+  </p>
 
 <br>
 
