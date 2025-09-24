@@ -62,7 +62,7 @@ Telegram: T.me/eeeYccc .
 
 </br>
 
-<p float="center">
+<p align= "center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&langs_count=6&theme=tokyonight&layout=compact" height="150">
 	<img src="https://github-readme-stats.vercel.app/api?username=DevZ44d&show_icons=true&theme=tokyonight" height="150">
 </p>
