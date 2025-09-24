@@ -2,13 +2,12 @@
 z44o/z44o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+async'></h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+deep'></h1>
 
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250px" />
 
 
-````markdown
-```csharp
+```
 - My Profile
 -------------------------------
 Name: deep.
@@ -19,8 +18,8 @@ Hobbies: Gaming, Coding while I am listening to music 🎶.
 Languages: Python, C++, Js.
 Learning: Machine Learning, Artificial Intelligence.
 Telegram: T.me/ddedman .
+portfolio: https://deep.is-a.dev/
 ```
-````
 
 
 ### >_ Programming Languages 👨‍💻
