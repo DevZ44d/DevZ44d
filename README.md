@@ -24,6 +24,12 @@ Telegram: T.me/ddedman .
 
 <h3>Programming Languages 👨‍💻</h3>
 
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,python,c++" />
+    </a>
+  </p>
+  
 ![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=c++&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
