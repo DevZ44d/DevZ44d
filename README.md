@@ -11,14 +11,14 @@ You can click the Preview link to take a look at your changes.
 ```csharp
 - My Profile
 -------------------------------
-Name: async.
+Name: deep.
 Gender: Male.
 Location: Egypt.
 Loves: Videogames 🎮, Stuff technology 🚀, Programming 👨‍💻.
 Hobbies: Gaming, Coding while I am listening to music 🎶.
-Languages: Python, C++.
+Languages: Python, C++, Js.
 Learning: Machine Learning, Artificial Intelligence.
-Telegram: T.me/eeeYccc .
+Telegram: T.me/ddedman .
 ```
 ````
 
