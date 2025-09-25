@@ -25,7 +25,7 @@ portfolio: https://deep.is-a.dev/
 ### >_ Programming Languages 👨‍💻
 	
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://deep.is-a.dev/">
       <img src="https://skillicons.dev/icons?i=cpp,js,python,bash" />
     </a>
   </p>
@@ -33,7 +33,7 @@ portfolio: https://deep.is-a.dev/
 ### >_ IDEs Used 🚀
 
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://deep.is-a.dev">
       <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
     </a>
   </p>
@@ -42,7 +42,7 @@ portfolio: https://deep.is-a.dev/
 ### >_ Systems I love ✨
 
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://deep.is-a.dev/">
       <img src="https://skillicons.dev/icons?i=linux,windows" />
     </a>
   </p>
