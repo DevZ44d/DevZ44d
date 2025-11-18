@@ -6,6 +6,10 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250px" />
 
+```zsh
+> neofetch
+```
+---
 
 ```
 - My Profile
@@ -55,17 +59,16 @@ portfolio: https://deep.is-a.dev/
 ![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
-<br>
+
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
   <div align="center">
-    <a href="https://github.com/KSKOP69/KSKOP69">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
+    <a href="https://github.com/DevZ44d/DevZ44d">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
     </a>
   </div>
 </details>
 
-</br>
 
 <p align= "center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&langs_count=6&theme=tokyonight&layout=compact" height="150">
