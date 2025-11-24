@@ -45,32 +45,62 @@ portfolio: https://deep.is-a.dev/
   <a href="https://x.com/nullgit" target="_blank"><img src="https://img.shields.io/twitter/follow/nullgit?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
 </p>
 
-### >_ Programming Languages 👨‍💻
-	
-  <p align="center">
-    <a href="https://deep.is-a.dev/">
-      <img src="https://skillicons.dev/icons?i=cpp,js,python,bash" />
-    </a>
-  </p>
+---
 
-### >_ IDEs Used 🚀
+### 🚀 My Tech Stack
 
-  <p align="center">
-    <a href="https://deep.is-a.dev">
-      <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
-    </a>
-  </p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="280">
+      <b>>_ Programming Languages 👨‍💻</b>
+    </td>
+    <td align="center" width="480">
+      <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=cpp,js,python,bash,powershell" hight="580"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>>_ Frontend 🐍</b>
+    </td>
+    <td align="center" hight="280">
+      <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js" ></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>>_ IDEs Used 🚀</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm,vscode" alt=""></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>>_ Systems I love ✨</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=linux,arch,kali,windows" alt=""></a>
+    </td>
+  </tr>
+<tr>
+    <td align="center">
+      <b>>_ Tools ✨</b>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=ai,git" alt=""></a>
+    </td>
+  </tr>
+<tr>
+    <td align="center">
+      <b>>_ Portfolio</b>
+    </td>
+    <td align="center">
+      <a href="https://deep.is-a.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=devto" alt=""></a>
+    </td>
+  </tr>
+</table>
 
-
-### >_ Systems I love ✨
-
-  <p align="center">
-    <a href="https://deep.is-a.dev/">
-      <img src="https://skillicons.dev/icons?i=linux,windows" />
-    </a>
-  </p>
-
-<br>
+---
 
 <h2 align="center"> My contributions game 🐍🎮</h2>
 
