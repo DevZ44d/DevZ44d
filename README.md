@@ -2,7 +2,20 @@
 z44o/z44o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+deep'></h1>
+
+<div align="center">
+  <a href="https://github.com/DevZ44d">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=10B981¢er=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+AhMed+%F0%9F%91%8B;" alt="Typing SVG" />
+  </a>
+  <p align="center">
+    <a href="https://github.com/DevZ44d?tab=followers">
+      <img src="https://img.shields.io/github/followers/DevZ44d?label=Followers&style=social" alt="GitHub Followers">
+    </a>
+    <a href="https://github.com/DevZ44d">
+      <img src="https://komarev.com/ghpvc/?username=DevZ44d&label=PROFILE+VIEWS&color=10B981&style=flat-square" alt="Profile Visitor Counter" />
+    </a>
+  </p>
+</div>
 
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250px" />
 
@@ -24,7 +37,13 @@ Learning: Machine Learning, Artificial Intelligence.
 Telegram: T.me/ddedman .
 portfolio: https://deep.is-a.dev/
 ```
+---
 
+<p align="center">
+  <a href="https://github.com/DevZ44d" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://t.me/DevGit" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://x.com/nullgit" target="_blank"><img src="https://img.shields.io/twitter/follow/nullgit?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
+</p>
 
 ### >_ Programming Languages 👨‍💻
 	
