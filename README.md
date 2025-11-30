@@ -40,6 +40,7 @@ portfolio: https://deep.is-a.dev/
 ---
 
 <p align="center">
+  <a href="https://deep.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/DevZ44d" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/DevGit" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://x.com/nullgit" target="_blank"><img src="https://img.shields.io/twitter/follow/nullgit?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
@@ -120,7 +121,8 @@ portfolio: https://deep.is-a.dev/
 
 
 <p align= "center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&langs_count=6&theme=tokyonight&layout=compact" height="150">
-	<img src="https://github-readme-stats.vercel.app/api?username=DevZ44d&show_icons=true&theme=tokyonight" height="150">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&langs_count=6&theme=tokyonight&layout=compact" width="40%">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevZ44d&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZ44d&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
