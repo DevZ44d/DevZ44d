@@ -7,15 +7,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/DevZ44d">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=10B981¢er=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+AhMed+%F0%9F%91%8B;" alt="Typing SVG" />
   </a>
-  <p align="center">
-    <a href="https://github.com/DevZ44d?tab=followers">
-      <img src="https://img.shields.io/github/followers/DevZ44d?label=Followers&style=social" alt="GitHub Followers">
-    </a>
-    <a href="https://github.com/DevZ44d">
-      <img src="https://komarev.com/ghpvc/?username=DevZ44d&label=PROFILE+VIEWS&color=10B981&style=flat-square" alt="Profile Visitor Counter" />
-    </a>
-  </p>
 </div>
+
 
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250px" />
 
@@ -34,16 +27,16 @@ Loves: Videogames 🎮, Stuff technology 🚀, Programming 👨‍💻.
 Hobbies: Gaming, Coding while I am listening to music 🎶.
 Languages: Python, C++, Js.
 Learning: Machine Learning, Artificial Intelligence.
-Telegram: T.me/ddedman .
-portfolio: https://deep.is-a.dev/
+Telegram: T.me/DevGit .
+Portfolio: https://deep.is-a.dev/
 ```
 ---
 
 <p align="center">
-  <a href="https://deep.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://deep.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/DevZ44d" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/DevGit" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://x.com/nullgit" target="_blank"><img src="https://img.shields.io/twitter/follow/nullgit?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
+  <a href="https://t.me/DevZ44d" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://github.com/DevZ44d" target="_blank"><img src="https://komarev.com/ghpvc/?username=DevZ44d&label=Profile%20Visits&style=for-the-badge" alt=""></a>
 </p>
 
 ---
@@ -105,9 +98,13 @@ portfolio: https://deep.is-a.dev/
 
 <h2 align="center"> My contributions game 🐍🎮</h2>
 
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevZ44d/DevZ44d/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevZ44d/DevZ44d/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevZ44d/DevZ44d/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <details>
@@ -121,8 +118,8 @@ portfolio: https://deep.is-a.dev/
 
 
 <p align= "center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&langs_count=6&theme=tokyonight&layout=compact" width="40%">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevZ44d&theme=tokyonight&hide_border=true" width="49%"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=DevZ44d&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" width="45%">
+	<img src="https://nirzak-streak-stats.vercel.app/?user=DevZ44d&theme=transparent&hide_border=true" width="40%"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZ44d&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
