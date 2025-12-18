@@ -94,19 +94,6 @@ Portfolio: https://deep.is-a.dev/
   </tr>
 </table>
 
----
-
-<h2 align="center"> My contributions game 🐍🎮</h2>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevZ44d/DevZ44d/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevZ44d/DevZ44d/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevZ44d/DevZ44d/output/pacman-contribution-graph.svg">
-</picture>
-
-
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
   <div align="center">
