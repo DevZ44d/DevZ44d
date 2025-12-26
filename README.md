@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="250" width="250px" />
+<img align="left" src="assets/pyro.gif" height="250" width="250px" />
 
 ```zsh
 > neofetch
