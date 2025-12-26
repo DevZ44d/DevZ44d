@@ -105,17 +105,4 @@ Portfolio: https://deep.is-a.dev/
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align= "center">
-	<img src="https://github-readme-stats.vercel.app/api?username=DevZ44d&theme=transparent&hide_border=true&include_all_commits=false&count_private=true" width="45%">
-	<img src="https://nirzak-streak-stats.vercel.app/?user=DevZ44d&theme=transparent&hide_border=true" width="45%"/>
-</p>
-
-<p align= "center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZ44d&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="45%">
-</p>
-
----
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZ44d&bg_color=30649c&color=000000&line=dbfff8&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" align= "center">
