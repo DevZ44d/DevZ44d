@@ -34,6 +34,13 @@ Telegram: T.me/DevGit .
 Portfolio: https://deep.is-a.dev/
 ```
 ---
+### 🚀 Md Farid – GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://deep.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
