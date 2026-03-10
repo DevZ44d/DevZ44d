@@ -56,7 +56,7 @@ Portfolio: https://deep.is-a.dev/
 <table align="center" width="100%">
   <tr>
     <td align="center" width="280">
-      <b>>_ Programming Languages 👨‍💻</b>
+      <b>Programming Languages 👨‍💻</b>
     </td>
     <td align="center" width="480">
       <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=cpp,js,python,bash,powershell,matlab" hight="580"></a>
@@ -64,7 +64,7 @@ Portfolio: https://deep.is-a.dev/
   </tr>
   <tr>
     <td align="center">
-      <b>>_ Frontend 🐍</b>
+      <b>Frontend 🐍</b>
     </td>
     <td align="center" hight="280">
       <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js" ></a>
@@ -72,7 +72,7 @@ Portfolio: https://deep.is-a.dev/
   </tr>
   <tr>
     <td align="center">
-      <b>>_ IDEs Used 🚀</b>
+      <b>IDEs Used 🚀</b>
     </td>
     <td align="center">
       <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm,vscode" alt=""></a>
@@ -80,7 +80,7 @@ Portfolio: https://deep.is-a.dev/
   </tr>
   <tr>
     <td align="center">
-      <b>>_ Systems I love ✨</b>
+      <b>Systems I love ✨</b>
     </td>
     <td align="center">
       <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=debian,linux,arch,kali,windows" alt=""></a>
@@ -88,7 +88,7 @@ Portfolio: https://deep.is-a.dev/
   </tr>
 <tr>
     <td align="center">
-      <b>>_ Tools ✨</b>
+      <b>Tools ✨</b>
     </td>
     <td align="center">
       <a href="https://github.com/DevZ44d" target="_blank"><img src="https://skillicons.dev/icons?i=ai,git,bots,docker,flask" alt=""></a>
@@ -96,7 +96,7 @@ Portfolio: https://deep.is-a.dev/
   </tr>
 <tr>
     <td align="center">
-      <b>>_ Portfolio</b>
+      <b>Portfolio</b>
     </td>
     <td align="center">
       <a href="https://deep.is-a.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=devto" alt=""></a>
