@@ -45,7 +45,7 @@ Portfolio: https://deep.is-a.dev/
 <p align="center">
   <a href="https://deep.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/DevZ44d" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/DevZ44d" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://t.me/DevGit" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://github.com/DevZ44d" target="_blank"><img src="https://komarev.com/ghpvc/?username=DevZ44d&label=Profile%20Visits&style=for-the-badge" alt=""></a>
 </p>
 
