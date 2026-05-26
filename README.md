@@ -33,12 +33,6 @@ Learning: Machine Learning, Artificial Intelligence.
 Telegram: T.me/DevGit .
 Portfolio: https://deep.is-a.dev/
 ```
----
-### 🚀 Md Farid – GitHub Activity Game
-
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
 
 ---
 
@@ -47,6 +41,13 @@ Portfolio: https://deep.is-a.dev/
   <a href="https://github.com/DevZ44d" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/DevGit" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://github.com/DevZ44d" target="_blank"><img src="https://komarev.com/ghpvc/?username=DevZ44d&label=Profile%20Visits&style=for-the-badge" alt=""></a>
+</p>
+
+---
+### 🚀 Md Farid – GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 ---
