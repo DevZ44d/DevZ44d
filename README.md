@@ -23,14 +23,14 @@ You can click the Preview link to take a look at your changes.
 ```
 - My Profile
 -------------------------------
-Name: deep.
+Name: AhMeD.
 Gender: Male.
 Location: Egypt.
 Loves: Videogames 🎮, Stuff technology 🚀, Programming 👨‍💻.
 Hobbies: Gaming, Coding while I am listening to music 🎶.
-Languages: Python, C++, Js.
+Languages: Python, C++, JS, HTML, CSS, 
 Learning: Machine Learning, Artificial Intelligence.
-Telegram: T.me/DevGit .
+Telegram: @DevGit .
 Portfolio: https://deep.is-a.dev/
 ```
 
